@@ -1,1 +1,26 @@
-/* Pon tu código css aqui */
+div {
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    }
+
+.padre{
+    overflow: hidden;
+    width: 1000px;
+    height: 1000px;
+}
+.caja1{
+    background-color: #eaea48;
+}
+
+.caja2{
+    background-color: #4444f7;
+}
+
+.caja3{
+    background-color: #f03232;
+}
+
+.caja4{
+    background-color: white;
+}
